@@ -7,7 +7,6 @@ toolchain go1.23.11
 require (
 	github.com/btcsuite/btcd v0.24.2
 	github.com/btcsuite/btcd/btcutil v1.1.6
-	// go-ethereum v1.9.5 is used across all libraries in status-im
 	github.com/ethereum/go-ethereum v1.16.3
 	golang.org/x/crypto v0.36.0
 	golang.org/x/text v0.23.0
